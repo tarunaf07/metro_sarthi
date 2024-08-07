@@ -1,6 +1,4 @@
-# metro_sarthi
-
-# DELHI METRO RAIL APP
+# Metro Sarthi
 
 Please don't get confused, this is NOT an ANDROID Application!
 
